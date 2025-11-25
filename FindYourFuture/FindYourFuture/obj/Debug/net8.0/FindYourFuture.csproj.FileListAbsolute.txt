@@ -1,0 +1,14 @@
+C:\Users\CLienT\source\repos\FindYourFuture\FindYourFuture\bin\Debug\net8.0\FindYourFuture.exe
+C:\Users\CLienT\source\repos\FindYourFuture\FindYourFuture\bin\Debug\net8.0\FindYourFuture.deps.json
+C:\Users\CLienT\source\repos\FindYourFuture\FindYourFuture\bin\Debug\net8.0\FindYourFuture.runtimeconfig.json
+C:\Users\CLienT\source\repos\FindYourFuture\FindYourFuture\bin\Debug\net8.0\FindYourFuture.dll
+C:\Users\CLienT\source\repos\FindYourFuture\FindYourFuture\bin\Debug\net8.0\FindYourFuture.pdb
+C:\Users\CLienT\source\repos\FindYourFuture\FindYourFuture\obj\Debug\net8.0\FindYourFuture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CLienT\source\repos\FindYourFuture\FindYourFuture\obj\Debug\net8.0\FindYourFuture.AssemblyInfoInputs.cache
+C:\Users\CLienT\source\repos\FindYourFuture\FindYourFuture\obj\Debug\net8.0\FindYourFuture.AssemblyInfo.cs
+C:\Users\CLienT\source\repos\FindYourFuture\FindYourFuture\obj\Debug\net8.0\FindYourFuture.csproj.CoreCompileInputs.cache
+C:\Users\CLienT\source\repos\FindYourFuture\FindYourFuture\obj\Debug\net8.0\FindYourFuture.dll
+C:\Users\CLienT\source\repos\FindYourFuture\FindYourFuture\obj\Debug\net8.0\refint\FindYourFuture.dll
+C:\Users\CLienT\source\repos\FindYourFuture\FindYourFuture\obj\Debug\net8.0\FindYourFuture.pdb
+C:\Users\CLienT\source\repos\FindYourFuture\FindYourFuture\obj\Debug\net8.0\FindYourFuture.genruntimeconfig.cache
+C:\Users\CLienT\source\repos\FindYourFuture\FindYourFuture\obj\Debug\net8.0\ref\FindYourFuture.dll
